@@ -2,7 +2,7 @@
 
 책에서 언급하고 있는 예제의 소스코드 담고 있습니다.
 
-![alt tag](http://www.acornpub.co.kr/tb/detail/book/rg/ta/1444984136VryHEMZf.jpg)
+->![alt tag](http://www.acornpub.co.kr/tb/detail/book/rg/ta/1444984136VryHEMZf.jpg)<-
 
 책의 예제 소스코드에 변경이 있을 경우 GitHub에 업데이트할 예정입니다.
 책의 내용에 대한 문이사항이 있는경우 다음의 네이버 카페에 방문하여 정보를 얻으시거나 문의사항을 등록해 주시면 답변 드리도록 하겠습니다.
