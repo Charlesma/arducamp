@@ -18,7 +18,7 @@
 
 활동을 적극적으로 해주시는 분을 대상으로 선물 이벤트도 진행할 예정입니다.
 
-cafe.naver.com/arducamp
+[아두캠프 카페 이동하기](http://cafe.naver.com/arducamp)
 
 
 # 프로젝트 소스
